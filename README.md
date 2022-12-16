@@ -4,7 +4,7 @@
   
 ## Summary
 
-[You can see the full analysis HERE](Exploratory Analysis of Video Game Sales - Github Demo.ipynb)
+![You can see the full analysis HERE](Exploratory Analysis of Video Game Sales - Github Demo.ipynb)
   
 >**Note**: This analysis is serving as an example of how jupyter notebooks, markdown, and html can be used together to create and share data projects. 
 
